@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFastAdapter</string>
+    <string name="world_cup_scroe_list">World Cup Scroe List</string>
+    <string name="match_list">Match List</string>
+</resources>
